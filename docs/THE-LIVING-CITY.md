@@ -27,6 +27,10 @@ The Living City.
 
 ---
 
+
+![Modern Sustainable Architecture](/the-living-city/images/modern-green-architecture.jpg)
+*The buildings of tomorrow are already being built today.*
+
 ## Chapter 2: The Failure of Fragmentation
 
 Every city on Earth is a collection of fragments pretending to be whole.

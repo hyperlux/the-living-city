@@ -6,6 +6,11 @@
 
 ---
 
+
+### Real-World Example: Urban Rooftop Farms
+![Rooftop Garden](/the-living-city/images/rooftop-garden.jpg)
+*Urban rooftop agriculture is already transforming cities worldwide.*
+
 ## A.1 Production Targets
 
 ### Primary Goals
