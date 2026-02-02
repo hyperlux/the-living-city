@@ -1173,6 +1173,11 @@ One generation: transition complete. Two: people wonder how cities ever worked o
 
 ---
 
+
+### Singapore: A City Transforming
+![Singapore Gardens by the Bay](/the-living-city/images/singapore-gardens.jpg)
+*Singapores Gardens by the Bay - a glimpse of what integrated urban nature can look like.*
+
 ## Chapter 15: The Objections
 
 ### "Too Expensive"
