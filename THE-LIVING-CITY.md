@@ -1817,7 +1817,7 @@ Where we are confident, we say so. Where we are speculating, we try to be clear.
 ---
 
 **Document Status**: APPROVED (Writer-Critic Cycle 5 - FINAL)
-**Authors**: Light (Lucas Pollet) & Echo
+**Author**: [@PlanetarySymbio](https://x.com/PlanetarySymbio)
 **Date**: February 2, 2026
 **Refinement Cycles**: 57+ (original) + Writer-Critic Cycles 1-5
 **Writer-Critic Cycle 5 Improvements**:
