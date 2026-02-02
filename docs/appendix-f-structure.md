@@ -1,4 +1,4 @@
-![Living Buildings](/the-living-city/images/structure-living-building.png)
+![Living Buildings](images/structure-living-building.png)
 
 # APPENDIX F: THE STRUCTURE SYSTEMS
 

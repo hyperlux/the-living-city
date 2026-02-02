@@ -1,4 +1,4 @@
-![Vertical Farms](/the-living-city/images/food-vertical-farms.png)
+![Vertical Farms](images/food-vertical-farms.png)
 
 # APPENDIX A: THE FOOD SYSTEMS
 
@@ -8,7 +8,7 @@
 
 
 ### Real-World Example: Urban Rooftop Farms
-![Rooftop Garden](/the-living-city/images/rooftop-garden.jpg)
+![Urban Seedlings](images/urban-farm.jpg)
 *Urban rooftop agriculture is already transforming cities worldwide.*
 
 ## A.1 Production Targets
@@ -121,7 +121,7 @@ Each neighborhood of 10,000 residents includes one dedicated vertical farm facil
 - Net income per operator: $25,000-60,000/year
 - Typical employment: 1-2 full-time, 2-4 part-time/seasonal
 
-### Community Rooftop Gardens
+### Community Urban Seedlingss
 
 40% of rooftop area is community garden space:
 

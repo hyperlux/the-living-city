@@ -2,7 +2,7 @@
 
 ## A Manifesto for the Urban Future
 
-![The Living City](/the-living-city/images/cover-living-city.png)
+![The Living City](images/cover-living-city.png)
 
 
 ### By [@PlanetarySymbio](https://x.com/PlanetarySymbio)
@@ -28,7 +28,7 @@ The Living City.
 ---
 
 
-![Modern Sustainable Architecture](/the-living-city/images/modern-green-architecture.jpg)
+![Modern Sustainable Architecture](images/modern-green-architecture.jpg)
 *The buildings of tomorrow are already being built today.*
 
 ## Chapter 2: The Failure of Fragmentation
@@ -1175,7 +1175,7 @@ One generation: transition complete. Two: people wonder how cities ever worked o
 
 
 ### Singapore: A City Transforming
-![Singapore Gardens by the Bay](/the-living-city/images/singapore-gardens.jpg)
+![Singapore Gardens by the Bay](images/singapore-gardens.jpg)
 *Singapores Gardens by the Bay - a glimpse of what integrated urban nature can look like.*
 
 ## Chapter 15: The Objections

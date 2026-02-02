@@ -1,4 +1,4 @@
-![Circular Economy](/the-living-city/images/waste-circular.png)
+![Circular Economy](images/waste-circular.png)
 
 # APPENDIX D: THE WASTE SYSTEMS
 

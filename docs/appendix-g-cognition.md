@@ -1,4 +1,4 @@
-![Urban Brain](/the-living-city/images/cognition-urban-brain.png)
+![Urban Brain](images/cognition-urban-brain.png)
 
 # APPENDIX G: THE COGNITION SYSTEMS
 
