@@ -2,6 +2,8 @@
 
 **A Manifesto for the Urban Future**
 
+![The Living City](images/cover-living-city.png)
+
 ---
 
 Every smart city pitch you've ever seen is a lie dressed in sensor networks.

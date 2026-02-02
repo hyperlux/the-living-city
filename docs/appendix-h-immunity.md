@@ -1,3 +1,5 @@
+![Resilience](images/immunity-resilience.png)
+
 # APPENDIX H: THE IMMUNITY SYSTEMS
 
 ## Technical Specifications for Resilience in the Living City

@@ -1,3 +1,5 @@
+![Sustainable Mobility](images/transport-mobility.png)
+
 # APPENDIX E: THE TRANSPORT SYSTEMS
 
 ## Technical Specifications for Circulation in the Living City

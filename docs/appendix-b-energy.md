@@ -1,3 +1,5 @@
+![Solar Facades](images/energy-solar-facades.png)
+
 # APPENDIX B: THE ENERGY SYSTEMS
 
 ## Technical Specifications for Metabolism in the Living City

@@ -1,3 +1,5 @@
+![Circular Economy](images/waste-circular.png)
+
 # APPENDIX D: THE WASTE SYSTEMS
 
 ## Technical Specifications for Digestion in the Living City

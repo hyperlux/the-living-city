@@ -1,3 +1,5 @@
+![Urban Brain](images/cognition-urban-brain.png)
+
 # APPENDIX G: THE COGNITION SYSTEMS
 
 ## Technical Specifications for the Urban Nervous System in the Living City

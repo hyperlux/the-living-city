@@ -1,3 +1,5 @@
+![Vertical Farms](images/food-vertical-farms.png)
+
 # APPENDIX A: THE FOOD SYSTEMS
 
 ## Technical Specifications for Nourishment in the Living City

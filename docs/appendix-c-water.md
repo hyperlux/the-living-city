@@ -1,3 +1,5 @@
+![Water Systems](images/water-systems.png)
+
 # APPENDIX C: THE WATER SYSTEMS
 
 ## Technical Specifications for Hydration in the Living City

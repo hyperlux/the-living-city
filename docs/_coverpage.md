@@ -1,3 +1,5 @@
+![cover](images/cover-living-city.png)
+
 # THE LIVING CITY
 
 ## A Manifesto for the Urban Future

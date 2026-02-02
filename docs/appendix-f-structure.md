@@ -1,3 +1,5 @@
+![Living Buildings](images/structure-living-building.png)
+
 # APPENDIX F: THE STRUCTURE SYSTEMS
 
 ## Technical Specifications for Living Buildings in the Living City
