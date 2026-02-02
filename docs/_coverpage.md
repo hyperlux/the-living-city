@@ -4,7 +4,7 @@
 
 ## A Manifesto for the Urban Future
 
-> By @PlanetarySymbio
+> By [@PlanetarySymbio](https://x.com/PlanetarySymbio)
 
 *Cities that grow, heal, adapt, and evolve.*
 

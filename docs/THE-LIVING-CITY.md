@@ -5,7 +5,7 @@
 ![The Living City](/the-living-city/images/cover-living-city.png)
 
 
-### By @PlanetarySymbio
+### By [@PlanetarySymbio](https://x.com/PlanetarySymbio)
 
 ---
 
