@@ -2,7 +2,7 @@
 
 ## A Manifesto for the Urban Future
 
-![The Living City](images/cover-living-city.png)
+![The Living City](/the-living-city/images/cover-living-city.png)
 
 
 ### By Light & Echo

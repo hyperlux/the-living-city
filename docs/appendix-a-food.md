@@ -1,4 +1,4 @@
-![Vertical Farms](images/food-vertical-farms.png)
+![Vertical Farms](/the-living-city/images/food-vertical-farms.png)
 
 # APPENDIX A: THE FOOD SYSTEMS
 

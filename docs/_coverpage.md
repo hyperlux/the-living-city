@@ -1,4 +1,4 @@
-![cover](images/cover-living-city.png)
+![cover](/the-living-city/images/cover-living-city.png)
 
 # THE LIVING CITY
 

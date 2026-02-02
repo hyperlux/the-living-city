@@ -1,4 +1,4 @@
-![Sustainable Mobility](images/transport-mobility.png)
+![Sustainable Mobility](/the-living-city/images/transport-mobility.png)
 
 # APPENDIX E: THE TRANSPORT SYSTEMS
 

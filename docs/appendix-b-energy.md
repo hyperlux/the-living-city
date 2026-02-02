@@ -1,4 +1,4 @@
-![Solar Facades](images/energy-solar-facades.png)
+![Solar Facades](/the-living-city/images/energy-solar-facades.png)
 
 # APPENDIX B: THE ENERGY SYSTEMS
 

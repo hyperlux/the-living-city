@@ -1,4 +1,4 @@
-![Water Systems](images/water-systems.png)
+![Water Systems](/the-living-city/images/water-systems.png)
 
 # APPENDIX C: THE WATER SYSTEMS
 

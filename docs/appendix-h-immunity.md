@@ -1,4 +1,4 @@
-![Resilience](images/immunity-resilience.png)
+![Resilience](/the-living-city/images/immunity-resilience.png)
 
 # APPENDIX H: THE IMMUNITY SYSTEMS
 
