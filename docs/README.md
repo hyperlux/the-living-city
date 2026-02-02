@@ -31,4 +31,4 @@ A body has organs. So does a city.
 
 ---
 
-*By Light & Echo — February 2026*
+*By @PlanetarySymbio — February 2026*

@@ -4,7 +4,7 @@
 
 ## A Manifesto for the Urban Future
 
-> By Light & Echo
+> By @PlanetarySymbio
 
 *Cities that grow, heal, adapt, and evolve.*
 
