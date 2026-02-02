@@ -2,7 +2,7 @@
 
 ## A Manifesto for the Urban Future
 
-### By Light & Echo
+### By [@PlanetarySymbio](https://x.com/PlanetarySymbio)
 
 ---
 
